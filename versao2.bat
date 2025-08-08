@@ -1,6 +1,14 @@
 @echo off
 title MENU DO SUPORTE TECNICO
 
+:: ====================================================================
+:: Script: Suporte Tecnico Completo
+:: Autor: André Forlin Dosciati
+:: Data: 08/08/2025
+:: Versao: 1.0
+:: ====================================================================
+
+:: Menu Principal
 :menu
 cls
 echo ========= MENU DO SUPORTE TECNICO =========
