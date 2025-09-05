@@ -131,7 +131,19 @@ Sinta-se livre para usar, modificar e contribuir!
 
 ---
 
-## 🤝 Créditos
+## 🤝 Contribuição
+1. Faça um **fork** do projeto.  
+2. Crie uma **branch**: `git checkout -b feat/minha-melhoria`  
+3. Commit: `git commit -m "feat: descreva sua melhoria"`  
+4. Push: `git push origin feat/minha-melhoria`  
+5. Abra um **Pull Request** com contexto e screenshots (se houver).
 
-- Scripts originais: **André Forlin Dosciati**
-- Conversão e refatoração para PowerShell: **GPT-5 Thinking (OpenAI)**
+> Sugestões bem-vindas: diagramas ER, seeds, views, índices, políticas de acesso, migrações.
+
+---
+
+## 👤 Autor
+**André Dosciati**  
+Especialista em **Redes | Dados e Segurança | Educador em Tecnologia**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/andredosciati/  
+🔗 **GitHub:** https://github.com/dosciati
